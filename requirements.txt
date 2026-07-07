@@ -1,0 +1,12 @@
+streamlit
+pandas
+geopandas
+shapely
+requests
+folium
+streamlit-folium
+streamlit-option-menu
+SQLAlchemy
+openpyxl
+psycopg2-binary
+xlsxwriter
